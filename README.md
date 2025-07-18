@@ -1,22 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to your CD project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60
+**URL**: https://CD.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use CD**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60) and start prompting.
+Simply visit the [CD Project](https://CD.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via CD will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in CD.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +62,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60) and click on Share -> Publish.
+Simply open [CD](https://CD.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my CD project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.CD.dev/tips-tricks/custom-domain#step-by-step-guide)
