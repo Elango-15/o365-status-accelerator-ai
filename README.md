@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://CD.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60
+**URL**: https://88p0h9wz-8080.inc1.devtunnels.ms/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use CD**
 
-Simply visit the [CD Project](https://CD.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60) and start prompting.
+Simply visit the [CD Project](https://88p0h9wz-8080.inc1.devtunnels.ms/) and start prompting.
 
 Changes made via CD will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [CD](https://CD.dev/projects/fc293fe8-179a-4972-a3e6-33ee9f8d4e60) and click on Share -> Publish.
+Simply open [CD](https://88p0h9wz-8080.inc1.devtunnels.ms/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my CD project?
 
